@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//aws/test.py=UTF-8
+encoding/crypt.py=utf8
+encoding/decode.py=utf-8
+encoding/file.py=utf-8
+encoding/grab.py=utf-8
+encoding/memcached.py=utf-8
+encoding/process.py=utf-8
+encoding/test.py=utf-8
+encoding/thread.py=utf-8
