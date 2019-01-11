@@ -1,7 +1,7 @@
 '''
 Created on 2016年5月6日
 
-@author: bestv
+@author: sunder3344
 '''
 
 class Person(object):

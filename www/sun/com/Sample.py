@@ -1,7 +1,7 @@
 '''
 Created on 2016年4月26日
 
-@author: bestv
+@author: sunder3344
 '''
 from www.sun.com.Speaker import Speaker
 from www.sun.com.Student import Student

@@ -1,18 +1,3 @@
-'''
-import pymysql
-
-try:
-    conn = pymysql.connect(host='bestvapptest.cgnxjsxbrwwd.rds.cn-north-1.amazonaws.com.cn', user='bestvapptest', passwd='bestvapptest', db='bestvapp', port=3306, charset='utf8')
-    cur = conn.cursor()
-    cur.execute('select * from nba_user limit 0, 10')
-    data = cur.fetchall()
-    for d in data:
-        print(d)
-    cur.close()
-    conn.close()
-except Exception:
-    print('error')
-'''
 from PIL import Image
 
 color = 'MNHQ$OC?7>!:-;.'
